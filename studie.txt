@@ -1,3 +1,4 @@
 My studie git
 mais encore d'utilisation
 je suis la branche samsonBranch
+maintenant nous somme dans la branche samsonBranche
